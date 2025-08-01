@@ -9,7 +9,7 @@
 
 使用说明：详细使用说明参考Greedy Snake Game中的README.md
 
-![贪吃蛇](C:/Users/10334/Desktop/贪吃蛇.png)
+<img width="1394" height="1458" alt="贪吃蛇" src="https://github.com/user-attachments/assets/e931b697-87bd-4da4-9e61-e413ea8a20d6" />
 
 
 
