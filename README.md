@@ -15,17 +15,21 @@
 
 3、打开Xmuse Direct进行配置：
 
-![image-20251024144014225](../../../AppData/Roaming/Typora/typora-user-images/image-20251024144014225.png)
+<img width="1395" height="1260" alt="image" src="https://github.com/user-attachments/assets/dbb271e3-fb76-4c53-bfeb-0751fe2ea46d" />
+
 
 以我的配置为例：
 
-![image-20251024144216468](../../../AppData/Roaming/Typora/typora-user-images/image-20251024144216468.png)
+<img width="1409" height="1264" alt="image" src="https://github.com/user-attachments/assets/75150f8d-b3e9-4316-b1ab-2a66decddb4f" />
+
 
 4、双击游戏进入输入信号配置页面，并输入相关信息就可以开始游戏了：
 
-![image-20251024145606834](../../../AppData/Roaming/Typora/typora-user-images/image-20251024145606834.png)
+<img width="1386" height="1456" alt="image" src="https://github.com/user-attachments/assets/ba58798b-0309-4b63-b4e3-c160978e54ab" />
 
-![image-20251024145629706](../../../AppData/Roaming/Typora/typora-user-images/image-20251024145629706.png)
+
+<img width="1391" height="1451" alt="image" src="https://github.com/user-attachments/assets/ad68f130-bebe-46f5-b78d-a63f4139f627" />
+
 
 
 
@@ -33,11 +37,13 @@
 
 1、脑控恐龙
 
-![image-20251024160321833](../../../AppData/Roaming/Typora/typora-user-images/image-20251024160321833.png)
+<img width="1402" height="880" alt="image" src="https://github.com/user-attachments/assets/21fabed1-414d-4b1e-98a7-8621ea0380e4" />
+
 
 2、脑控小飞鸟
 
-![image-20251024160405991](../../../AppData/Roaming/Typora/typora-user-images/image-20251024160405991.png)
+<img width="1393" height="835" alt="image" src="https://github.com/user-attachments/assets/7adbaa20-4b5b-4df2-99c8-2fb36b417db6" />
+
 
 ## 💕联系方式
 
