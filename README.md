@@ -14,17 +14,17 @@
 
 3、打开Xmuse Direct进行配置：
 
-<img src="../../../AppData/Roaming/Typora/typora-user-images/image-20251024144014225.png" alt="image-20251024144014225" style="zoom:50%;" />
+<img src="Picture/2.png" alt="2" style="zoom:50%;" />
 
 以我的配置为例：
 
-<img src="../../../AppData/Roaming/Typora/typora-user-images/image-20251024144216468.png" alt="image-20251024144216468" style="zoom:50%;" />
+<img src="Picture/3.png" alt="3" style="zoom:50%;" />
 
 4、双击游戏进入输入信号配置页面，并输入相关信息就可以开始游戏了：
 
-<img src="../../../AppData/Roaming/Typora/typora-user-images/image-20251024145606834.png" alt="image-20251024145606834" style="zoom:50%;" />
+<img src="Picture/4.png" alt="4" style="zoom:50%;" />
 
-<img src="../../../AppData/Roaming/Typora/typora-user-images/image-20251024145629706.png" alt="image-20251024145629706" style="zoom:50%;" />
+<img src="Picture/5.png" alt="5" style="zoom:50%;" />
 
 
 
@@ -32,27 +32,27 @@
 
 运行仓库里面的exe执行程序，就可以开始控制神奇的大脑进行各种游戏了！
 
-![[layout]2](../../../Desktop/[layout]2.jpg)
+<img src="Picture/1.jpg" alt="[layout]2" style="zoom: 200%;" />
 
 ## 🦸‍♂️贡献人员：
 
-① Greedy-Snake-Game    🔊🔊🔊**厦门理工学院    黄阳斌**
+① Greedy-Snake-Game    🔊**厦门理工学院    黄阳斌**
 
-② Gomoku-Game    🔊🔊🔊**天津大学福州国际联合学院   吴寿敏**
+② Gomoku-Game    🔊**天津大学福州国际联合学院   吴寿敏**
 
-③ Tank-Game    🔊🔊🔊**天津大学福州国际联合学院    王浩**
+③ Tank-Game    🔊**天津大学福州国际联合学院    王浩**
 
-④ Space-Battle-Game    🔊🔊🔊**天津大学福州国际联合学院   余睿杰**
+④ Space-Battle-Game    🔊**天津大学福州国际联合学院   余睿杰**
 
-⑤ Thunder-Fighter-Game    🔊🔊🔊**天津大学福州国际联合学院  王天潇**
+⑤ Thunder-Fighter-Game    🔊**天津大学福州国际联合学院  王天潇**
 
-⑥ Brain-Galaxy-Game    🔊🔊🔊**厦门理工学院  佘华烽**
+⑥ Brain-Galaxy-Game    🔊**厦门理工学院  佘华烽**
 
 
 
 ## 🏫合作高校：
 
-![ScreenShot_2025-12-09_131230_719](../../../Desktop/ScreenShot_2025-12-09_131230_719.png)
+![6](Picture/6.png)
 
 
 
