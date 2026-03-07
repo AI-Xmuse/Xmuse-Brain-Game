@@ -14,17 +14,17 @@
 
 3、打开Xmuse Direct进行配置：
 
-<img src="Picture/2.png" alt="2" style="zoom:50%;" />
+<img src="Picture/2.png" alt="2" style="zoom:30%;" />
 
 以我的配置为例：
 
-<img src="Picture/3.png" alt="3" style="zoom:50%;" />
+<img src="Picture/3.png" alt="3" style="zoom:30%;" />
 
 4、双击游戏进入输入信号配置页面，并输入相关信息就可以开始游戏了：
 
-<img src="Picture/4.png" alt="4" style="zoom:50%;" />
+<img src="Picture/4.png" alt="4" style="zoom:30%;" />
 
-<img src="Picture/5.png" alt="5" style="zoom:50%;" />
+<img src="Picture/5.png" alt="5" style="zoom:30%;" />
 
 
 
